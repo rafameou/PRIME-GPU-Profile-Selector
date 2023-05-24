@@ -1,3 +1,11 @@
+Forked from <https://github.com/alexispurslane/PRIME-GPU-Profile-Selector>
+
+I recommend using the real thing, i'm not sure how much I will sync/update this.
+
+The only thing I changed is the reboot thing to logout, since it works best for me, and I don't want to force the original author to change his extension over this.
+
+The rest of the readme is from the original repo:
+
 # PRIME GPU Profile Selector GNOME Shell Extension
 
 **based on this extension: <https://github.com/LorenzoMorelli/GPU_profile_selector>**
